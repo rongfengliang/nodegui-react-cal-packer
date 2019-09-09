@@ -16,6 +16,8 @@ cd react-nodegui-starter
 npm install
 # Run the app
 npm start
+# package application
+npm run  package
 ```
 
 ## Resources for Learning NodeGUI/React NodeGUI
